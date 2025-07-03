@@ -1,0 +1,9 @@
+# Ignore backend environment and Python cache
+backend/env/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+
